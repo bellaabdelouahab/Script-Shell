@@ -1,0 +1,11 @@
+#!/bin/bash
+echo "donnez"
+read nb1
+echo "donne"
+read nb2
+if [$((nb1*nb2))> "0"
+then
+	echo "posiu"
+else
+	echo "neg"
+fi
