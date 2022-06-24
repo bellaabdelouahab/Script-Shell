@@ -1,10 +1,11 @@
 #!/bin/bash 
  del that
+
 saisir () { 
     printf "Saisir le premier nombre, puis le signe de l'opération puis le deuxième nombre :\n\n" 
     read -r nb1 
     read -r s 
-    read -r nb2 
+    read -r nb2     
 } 
  
 calcul () { 
