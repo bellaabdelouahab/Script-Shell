@@ -1,5 +1,5 @@
 #!/bin/bash 
- 
+ s
 j=0 
 k=0 
 l=0 
