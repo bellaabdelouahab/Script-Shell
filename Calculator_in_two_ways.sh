@@ -1,5 +1,6 @@
 #!/bin/bash 
- del this
+ del that
+
 saisir () { 
     printf "Saisir le premier nombre, puis le signe de l'opération puis le deuxième nombre :\n\n" 
     read -r nb1 
